@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+dist
+tailwind.config.js
+styles
+node_modules
